@@ -51,6 +51,14 @@ Following data scraping, rigorous data preprocessing was essential to ensure sui
 * Added columns for simplified job titles and seniority levels.
 * Calculated and included the length of job descriptions in a separate column.
 
+# Exploratary Data Analysis
+
+![image](https://github.com/thedv/ds_salary_proj/assets/86904885/38d2762e-ec10-4510-bd51-56d046a49ce4)
+
+
+
+
+
 
 # Model Building
 
