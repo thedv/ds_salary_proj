@@ -77,4 +77,4 @@ After training and testing all the models, the model that outperformed all the o
 
 # Productionization
 
-During this phase, I constructed a Flask API endpoint hosted on a local web server, following the guidance outlined in the  [TDS]([https://www.google.com](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2 ))tutorial. The API endpoint accepts requests containing a list of values extracted from a job listing and returns an estimated salary as output.
+During this phase, I constructed a Flask API endpoint hosted on a local web server, following the guidance outlined in the  [TDS]([https://www.google.com](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2 ) tutorial. The API endpoint accepts requests containing a list of values extracted from a job listing and returns an estimated salary as output.
