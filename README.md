@@ -53,11 +53,15 @@ Following data scraping, rigorous data preprocessing was essential to ensure sui
 
 # Exploratary Data Analysis
 
-![image](https://github.com/thedv/ds_salary_proj/assets/86904885/38d2762e-ec10-4510-bd51-56d046a49ce4)
+I examined the distributions of the data and the frequency of values for different categorical variables. Here are some key points gathered from the pivot tables.
+
+![image](https://github.com/thedv/ds_salary_proj/assets/86904885/38d2762e-ec10-4510-bd51-56d046a49ce4 )
 
 
+![image](https://github.com/thedv/ds_salary_proj/assets/86904885/52d502d5-df76-4530-a9d5-8cb20875cff3 "Coorelation plot")
 
 
+![image](https://github.com/thedv/ds_salary_proj/assets/86904885/586a45f1-a086-49b0-8d8f-c26b85e99987)
 
 
 # Model Building
